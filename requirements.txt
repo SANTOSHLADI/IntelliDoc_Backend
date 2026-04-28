@@ -1,0 +1,35 @@
+# Azure Functions runtime
+azure-functions>=1.18.0
+
+# Azure Key Vault (stores all secrets securely)
+azure-keyvault-secrets>=4.7.0
+
+# Azure Identity (Managed Identity for Key Vault access)
+azure-identity>=1.15.0
+
+# Azure Storage Blob
+azure-storage-blob>=12.19.0
+
+# Azure Cosmos DB
+azure-cosmos>=4.6.0
+
+# Azure AI Search
+azure-search-documents>=11.6.0
+
+# Azure Document Intelligence (specialized OCR)
+azure-ai-documentintelligence>=1.0.0
+
+# Azure OpenAI
+openai>=1.30.0
+
+# PDF processing
+PyMuPDF>=1.23.0
+PyPDF2>=3.0.0
+python-docx>=1.1.0
+Pillow>=10.2.0
+
+# HTTP
+requests>=2.31.0
+
+# Utilities
+python-dateutil>=2.8.2
